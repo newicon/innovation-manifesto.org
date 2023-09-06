@@ -84,5 +84,6 @@ Expect the unexpected Encourage experiments and an experimental mindset and avoi
 Watch brain biases
 
 ## Assume its possible
+Focus on the result - the improevement in the world and work backwards - technnology is easier to define when you know what it must do.
+
 ## No blockers
-## Open Innovation
