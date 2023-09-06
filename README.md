@@ -3,6 +3,13 @@
 
 !!! Work in progress !!!
 
+[https://newicon.net](https://newicon.net)
+
+This is a manifesto based on conversations at minds in motion event series by Newicon
+
+Reference the innovation kit.
+[Newicon Innovation Kit](https://newicon.net/innovation-kit)
+
 The Innovation Manifesto for Agile Product Development
 Preamble
 In an age where technology evolves at breakneck speed and consumer expectations are higher than ever, the old ways of product development can no longer keep pace. Traditional processes that prioritised lengthy cycles, heavy documentation, and rigid hierarchies are ill-suited for today’s dynamic landscape.
