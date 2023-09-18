@@ -87,3 +87,6 @@ Watch brain biases
 Focus on the result - the improevement in the world and work backwards - technnology is easier to define when you know what it must do.
 
 ## No blockers
+
+## Ideas and Mess
+Embrace the mess - product lifecycle is long.  Ideas -> Mess -> Brief -> Protoype -> MVP -> Beta -> Product -> Commercial
