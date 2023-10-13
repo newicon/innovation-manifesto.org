@@ -3,6 +3,8 @@
 
 !!! Work in progress !!!
 
+[Edit](https://github.com/newicon/innovation-manifesto.org/edit/main/README.md)
+
 [https://newicon.net](https://newicon.net)
 
 This is a manifesto based on conversations at minds in motion event series by Newicon
