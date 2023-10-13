@@ -21,15 +21,15 @@ We believe that creative, empowered, and engaged individuals are the cornerstone
 Innovation is not a one-off event but a continuous journey. We favour quick cycles, frequent updates, and real-world testing over years-long development and massive, high-stakes rollouts.
 3. Customer-Centricity Over Stakeholder Politics
 The customer is the ultimate judge of a product’s value. Decisions must be driven by real-world feedback and a deep understanding of customer needs, not internal politics or assumed wisdom.
-4. Data-Driven Decisions Over Gut Feeling
-While intuition has its place, decisions should be primarily guided by data. Real-world metrics yield insights that drive intelligent innovation.
-5. Collaboration Over Silos
+4. Design over documentation
+Use the common language of design, summarise problems visually,
+6. Collaboration Over Silos
 Cross-functional teams break down barriers. Developers, designers, marketers, and other stakeholders should work in concert, sharing perspectives to achieve common goals.
-6. Flexibility Over Rigidity
+7. Flexibility Over Rigidity
 Change is inevitable. Our processes must be flexible enough to adapt to new technologies, market conditions, and customer feedback without upheaval.
-7. Transparency Over Secrecy
+8. Transparency Over Secrecy
 Open communication builds trust and enables better decision-making. Whether it's internal communication between team members or external communication with customers, transparency should be the default.
-8. Sustainability Over Short-term Gains
+9. Sustainability Over Short-term Gains
 While quick wins are important, we commit to the long-term health of our products, our people, and our planet. Sustainable practices in product development and business are non-negotiable.
 
 Useful Practices
@@ -67,8 +67,9 @@ Products and services are more integrated and streamlined than ever before and c
 ## Open Innovation
 Embrace and foster open innovation. Lessons from software show that if you are not actively encouraging and embracing open source you’ll likely be replaced by it.
 
-## Abundance mindset
-Adopting an abundance mindset with exponential growth - it more likely than linear.
+## Abundance, safe and growth mindset
+Adopting an abundance mindset with exponential growth - it's more likely than linear.
+Oppinion and collaboration and phscological safety is a must - there is no such thing as a crzy/silly idea, these spark new thoughts.
 
 ## Humans first
 Computer says yes!  All processes and innovations and technologies start and end with humans, ensure everyone is considered.
